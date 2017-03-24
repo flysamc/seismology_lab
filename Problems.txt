@@ -1,0 +1,4 @@
+Write on shell-script to Calculate H and Vp/Vs ratio of the two attached Receiver functions using 
+1) Simple H-k method
+2) Zhu-Kanamori mentod
+Assume Vp=6.4 km/s. Rayparameter is stored in user4
